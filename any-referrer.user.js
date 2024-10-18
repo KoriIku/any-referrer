@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Link Drag to Custom Sites with Favicon and UI
+// @name         any-referrer - 伪装你来自哪里
 // @namespace    http://tampermonkey.net/
 // @version      1.8
 // @description  Drag links to floating icons to redirect through custom sites with favicon and management UI
@@ -8,6 +8,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
+// @author       KoriIku
+// @downloadURL  https://github.com/KoriIku/any-referrer/raw/refs/heads/main/any-referrer.user.js
 // ==/UserScript==
 
 (function() {
